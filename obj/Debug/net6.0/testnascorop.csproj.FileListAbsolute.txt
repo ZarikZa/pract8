@@ -1,0 +1,17 @@
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\bin\Debug\net6.0\testnascorop.exe
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\bin\Debug\net6.0\testnascorop.deps.json
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\bin\Debug\net6.0\testnascorop.runtimeconfig.json
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\bin\Debug\net6.0\testnascorop.dll
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\bin\Debug\net6.0\testnascorop.pdb
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.AssemblyInfoInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.AssemblyInfo.cs
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.dll
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\refint\testnascorop.dll
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.pdb
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.genruntimeconfig.cache
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\ref\testnascorop.dll
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.csproj.AssemblyReference.cache
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MSI-MODERN-14\source\repos\testnascorop\testnascorop\obj\Debug\net6.0\testnascorop.csproj.CopyComplete
